@@ -1,0 +1,3 @@
+  sudo svn cleanup .
+  sudo svn add --force .
+  sudo svn commit . -m 'Add file RS'
