@@ -1,3 +1,6 @@
   sudo svn cleanup .
   sudo svn add --force .
-  sudo svn commit . -m 'Add file RS'
+Test thu git nhe :)
+
+  sudo svn add --force .
+
